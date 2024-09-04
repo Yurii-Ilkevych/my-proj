@@ -1,0 +1,16 @@
+{
+  "name": "my-proj",
+  "version": "1.0.0",
+  "description": "",
+  "source": "src/index.html",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel src/index.html"
+  },
+  "author": "Yurii Ilkevych (rufiktcl@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
